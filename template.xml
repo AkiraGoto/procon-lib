@@ -1,0 +1,17 @@
+<templateSet group="procon">
+    <template name="modinv" value="{ModInverse}" toReformat="true" toShortenFQNames="true">
+        <context>
+            <option name="JAVA_DECLARATION" value="true"/>
+        </context>
+    </template>
+    <template name="uftree" value="{UnionFindTree}" toReformat="true" toShortenFQNames="true">
+        <context>
+            <option name="JAVA_DECLARATION" value="true"/>
+        </context>
+    </template>
+    <template name="comb" value="{Combination}" toReformat="true" toShortenFQNames="true">
+        <context>
+            <option name="JAVA_DECLARATION" value="true"/>
+        </context>
+    </template>
+</templateSet>
